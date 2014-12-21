@@ -25,17 +25,9 @@
     font-family: Verdana, sans-serif;
 }
 
-#header a:hover {
-    font-weight: bold;
-}
-
 .right a {
     Color: #000000;
     text-decoration: none;
-}
-
-.right a:hover {
-    font-weight: bold
 }
 
 h4 {
