@@ -34,7 +34,7 @@
 			</planet>
 			<temperature>5766.0</temperature>
 		</star>
-		<binary>            <!-- Nested binary here -- >
+		<binary>            <!-- Nested binary here -->
 			<separation unit="arcsec">3.4</separation>
 			<separation unit="AU">73</separation>
 			<positionangle>209</positionangle>
