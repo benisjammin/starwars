@@ -1,0 +1,61 @@
+<system>
+  <name>Coruscant</name>
+  <region>Core Worlds</region>
+  <sector>Corusca</sector>
+  <subsector>Coruscant></subsector>
+  <xyz>(0/0/0)</xyz>
+  <gcoord>L-9</gcoord>
+  <rightascension></rightascension>
+  <declination></declination>
+  <distance></distance>
+    <star>
+    <name>Coruscant Prime</name>
+      <mass></mass>
+      <radius></radius>
+      <mag></mag>
+      <metallicity></metallicity>
+      <spectraltype></spectraltype>
+      
+      Revisse[3]
+Platoril[3]
+Vandor-1[3]
+Vandor-2[3]
+Vandor-3[3]
+<planet>
+        <name>Coruscant</name>
+        <name>Imperial Center</name>
+        <name>Yuuzhan'tar</name>
+        <list>Core Worlds</list>
+        <mass></mass>
+        <period></period>
+        <semimajoraxis></semimajoraxis>
+        <eccentricity></eccentricity
+          <moon>
+          <name>Centax-1</name>
+          <distance></distance>
+          semimajoraxis></semimajoraxis>
+          <!-- Etc.-->
+          </moon>
+          <moon>
+          <name>Centax-2</name>
+          </moon>
+          <moon>Centax-3</moon>
+          <!--  This needs finshed later.
+Hesperidium[4]
+      </planet>
+Centax-1
+Centax-2
+Centax-3
+Hesperidium
+Muscave[3]
+21 moons[3]
+Stentat[3]
+23 moons[3]
+Improcco[3]
+1 moon[3]
+Frozen Moon of Improcco
+Nabatu[3]
+Ulabos[3]
+                                                -->
+    </star>
+</system>
