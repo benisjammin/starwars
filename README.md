@@ -20,18 +20,19 @@ relatively quite sparse.
 
 ## Standard Units:
 
-##### gravity = 13.93 m.s-2  
-##### Mass = 1.637x1025kg  
-##### Radius = 8854km
+###### gravity = 13.93 m.s-2  
+###### Mass = 1.637x1025kg  
+###### Radius = 8854km
 
 Other units and .xml children may be added at a later date. There are many. This project intends to be a rich resource containing more-than-enough and more-than-posssibly-useful information for research, RP and realism, and astrophysics purposes.
 
 
-###### There are some inconsistencies, especially in the standards used (Coruscants size) as they are derived from  
-###### RPG material regarding Bespin and Yavin.
+####### There are some inconsistencies, especially in the standards used (Coruscants size) as they are derived from  
+####### RPG material regarding Bespin and Yavin.
 
 ### Invaluable sources include:
-Curtis Saxton(http://www.mssl.ucl.ac.uk/~cjs2/)'s work here: 
-http://www.theforce.net/swtc/units.html , here:
-http://www.theforce.net/swtc/orbs.html  , and elsewhere  on:
+
+* Curtis Saxton(http://www.mssl.ucl.ac.uk/~cjs2/)'s work here:  
+http://www.theforce.net/swtc/units.html , here:  
+http://www.theforce.net/swtc/orbs.html  , and elsewhere  on:  
 http://www.theforce.net .
