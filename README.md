@@ -2,7 +2,7 @@
 Star Wars Map Project
 ============
 
-This is an audacious, outlandish, and way-too-big-to-handle project, attempting to reconcile from the many  
+## This is an audacious, outlandish, and way-too-big-to-handle project, attempting to reconcile from the many  
 sources, Legends and Canon alike, a single comprehensible resource for visualising and accessing the Star Wars galaxy.
 
 #### Legends versus Canon
@@ -10,7 +10,7 @@ sources, Legends and Canon alike, a single comprehensible resource for visualisi
 the default however, as it is much richer, and (generally) more interesting cartographically. The Canon universe is  
 relatively quite sparse.
 
-## Order of operations. 
+### Order of operations. 
 * Initial file standards to be implemented.
 * Expansion of Planet/System library.
 * Site update to handle information, and present it.
@@ -18,7 +18,7 @@ relatively quite sparse.
 * Prelim design of webviewer and mobile apps (iOs and Android, based on the design of the Exoplanet App by Hanno Rein).
 * &c, &c..
 
-## Standard Units:
+### Standard Units:
 
 ###### gravity = 13.93 m.s-2  
 ###### Mass = 1.637x1025kg  
@@ -27,10 +27,15 @@ relatively quite sparse.
 Other units and .xml children may be added at a later date. There are many. This project intends to be a rich resource containing more-than-enough and more-than-posssibly-useful information for research, RP and realism, and astrophysics purposes.
 
 
-####### There are some inconsistencies, especially in the standards used (Coruscants size) as they are derived from  
-####### RPG material regarding Bespin and Yavin.
+*There are some inconsistencies, especially in the standards used (Coruscants size) as they are derived from  
+RPG material regarding Bespin and Yavin.*
 
 ### Invaluable sources include:
+* Wookiepedia  
+http://starwars.wikia.com/wiki/Coruscant  
+http://starwars.wikia.com/wiki/Atmosphere#Type_I  
+http://starwars.wikia.com/wiki/Coruscant_system  
+and many more..
 
 * Curtis Saxton(http://www.mssl.ucl.ac.uk/~cjs2/)'s work here:  
 http://www.theforce.net/swtc/units.html , here:  
