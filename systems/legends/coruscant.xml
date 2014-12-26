@@ -1,0 +1,124 @@
+<system>
+  <name>Coruscant</name>
+  <list>Legends</list>
+  <region>Core Worlds</region>
+  <sector>Corusca</sector>
+  <subsector>Coruscant></subsector>
+  <xyz>(0/0/0)</xyz>
+  <gcoord>L-9</gcoord>
+  <population>Over 1 trillion</population> <!-- 1.000.000.000.000+, wow! -->
+  <rightascension></rightascension>   <!-- Would this be 00 00 00, as Coruscant is the reference point?  
+  I am not sure if this information would need to be included, or how relevant it would be. This, and the below, might be  
+  important for placing it in the mobile/webapp. -->
+  <declination></declination>
+  <distance>10000</distance>  <!-- from Core, in light years -->
+    <star>
+      <name>Coruscant Prime</name>
+      <mass></mass>
+      <radius></radius>
+      <mag></mag>
+      <metallicity></metallicity>
+      <spectraltype></spectraltype>
+      <planet>
+        <name>Revisse</name>
+        <type>Molten Rock</type>
+      </planet>
+      <planet>
+        <name>Platoril</name>
+        <type>Barren Rock</type>
+      </planet>
+      <planet>
+        <name>Vandor-1</name>
+        <type>Barren Rock</type>
+      </planet>
+      <planet>
+        <name>Vandor-2</name>
+        <type>Barren Rock</type>
+      </planet>
+      <planet>
+        <name>Vandor-3</name>
+        <type>Terrestrial</type>
+        <atmosphere>Type I</atmosphere>
+      </planet>
+      <planet>
+        <name>Coruscant</name>
+        <name>Notron</name>
+        <name>Imperial Center</name>
+        <name>Yuuzhan'tar</name>
+        <name>the Queen of the Core</name>
+        <list>Core Worlds</list>
+        <type>Terrestrial</type>
+        <atmosphere>Type I (breatheable)</atmosphere>
+        <terrain>Urban cityscape</terrain>
+        <gravity>standard</gravity> <!-- Coruscant is the standard, ergo.. This is 1.421 times Earth gravity.-->
+        <mass>1</mass>          <!-- Standard Coruscant masses -->
+        <masskg>1.636328E25</masskg>  <!-- kilograms -->
+        <diameter>12240 km</diameter>
+        <rotation>24</rotation> <!-- Hours -->
+        <period>368</period>    <!-- Days -->
+        <semimajoraxis></semimajoraxis>
+        <eccentricity></eccentricity
+          <moon>
+            <name>Centax-1</name>
+            <distance></distance>
+            <semimajoraxis></semimajoraxis>
+            <period></period>  <!-- See legends/canon for information regarding moonset/rise times. -->
+            <description>Centax-1 was one of the moons of Coruscant.
+              Following the Alsakan Conflicts, it served as a Galactic Republic penal world.
+              Centax-class heavy frigates were outfitted there during the Clone Wars and it was a military staging base that was garrisoned with 20,000 clone troopers.
+            </description>
+            <!-- Points of interest (very time consuming) might be interesting to add. E.g. on this moon a Maximum Correctinoal Facility exists. -->
+            <!-- Etc.-->
+          </moon>
+          <moon>
+            <name>Centax-2</name>
+            <terrain>Barren Rock</terrain>
+            <description>In 41 BBY, Clee Rhara tried to establish a Jedi starfighter corps on the moon, but the project was canceled by the Galactic Senate after it was sabotaged by Vox Chun and Tarrence Chenati.
+During the Clone Wars, Centax-2 was used by the Republic for military staging and fleet maintenance. In 21 BBY, agent Besany Wennen was investigating future clone Kamino payments for Mereel Skirata but instead found out that Spaarti cloning facilities were being built on Centax-2, and that Arkanian Microtechnologies was permitted to establish facilities there.
+By the time of the Blockade of Corellia in 40 ABY, it hosted a Galactic Alliance starfighter training squadron base and was used by the New Jedi Order as a training facility.
+            </description>
+          </moon>
+          <moon>
+            <name>Centax-3</name>
+          </moon>
+          <moon>
+            <name>Hesperidium</name>
+            <description>
+              Hesperidium was a luxurious resort moon that orbited Coruscant.
+            </description>
+          </moon>
+          <!-- Many artificial Satellites, and Orbital Mirrors for climate control. I'm not quite sure how to implement this. -->
+      </planet>
+      <planet>
+        <name>Muscave</name>
+        <moon>
+        <!-- 21 moons[3]  -->
+          <name></name>
+        </moon>
+      </planet>
+      <planet>
+        <name>Stentat</name>
+        <!-- 23 moons[3] -->
+      </planet>
+      <planet>
+        <name>Improcco</name>
+        <terrain>Ice Ball</terrain>
+        <!-- One Moon -->
+        <moon>Frozen Moon of Improcco</moon>
+      </planet>
+      <asteroidbelt>
+        <name>The Covey</name>
+        <!-- I don't know what information is necessary for this section. This I don't know how much of  
+        this data is used in simulation, and in rendering plots or descriptive paragraphs/lists. -->
+      </asteroidbelt>
+      <planet>
+        <name>Nabuta</name>
+      </planet>
+      <planet>
+        <name>Ulabos</name>
+      </planet>
+      <cometcluster>
+        <name>Obo Rin</name>
+      </cometcluster>
+    </star>
+</system>
