@@ -2,7 +2,7 @@
 Star Wars Map Project
 ============
 
-*Primary contributors/authors: B_n, J_ss*
+*Primary contributors:* B_n, J_ss.
 
 This is an audacious, outlandish, and way-too-big-to-handle project, attempting to reconcile from the many  
 sources, Legends and Canon alike, a single comprehensible resource for visualising and accessing the Star Wars galaxy.
