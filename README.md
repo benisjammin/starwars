@@ -6,11 +6,11 @@ This is an audacious, outlandish, and way-too-big-to-handle project, attempting 
 sources, Legends and Canon alike, a single comprehensible resource for visualising and accessing the Star Wars galaxy.
 
 #### Legends versus Canon
-> —As the primary author of the project is a fan of the Legends as much as the Canon, both are included. Legends is the  
-default however, as it is much richer, and (generally) more interesting cartographically. The Canon universe is relatively  
-quite sparse.
+> As the primary author of the project is a fan of the Legends as much as the Canon, both are included. Legends is  
+the default however, as it is much richer, and (generally) more interesting cartographically. The Canon universe is  
+relatively quite sparse.
 
-### Order of operations. 
+## Order of operations. 
 * Initial file standards to be implemented.
 * Expansion of Planet/System library.
 * Site update to handle information, and present it.
