@@ -39,6 +39,7 @@ h4 {
 
 .left {
     float: left;
+    position: fixed;
     border-radius: 5px;
     height: 400px;
     width: 10%;
@@ -59,7 +60,6 @@ h4 {
 
 #footer {
     border-radius: 5px;
-    position: fixed;
     	height: 50px;
 	background-color: #668284;
 	clear: both;
