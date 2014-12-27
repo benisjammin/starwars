@@ -58,6 +58,7 @@ h4 {
 }
 
 #footer {
+	float: auto;
     border-radius: 5px;
     position: fixed;
     display: block;
