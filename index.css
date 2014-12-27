@@ -60,6 +60,7 @@ h4 {
 #footer {
     border-radius: 5px;
     position: fixed;
+    display: block;
     	height: 50px;
     	margin-bottom: 10px;
 	background-color: #668284;
