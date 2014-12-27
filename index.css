@@ -59,6 +59,7 @@ h4 {
 
 #footer {
     border-radius: 5px;
+    position: fixed;
     	height: 50px;
 	background-color: #668284;
 	clear: both;
