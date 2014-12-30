@@ -9,9 +9,10 @@ reconcile from the many sources, Legends and Canon alike, a single comprehensibl
 resource for visualising and accessing the Star Wars galaxy.
 
 #### Legends versus Canon
-> As the primary author of the project is a fan of the Legends as much as the Canon, both are included. Legends is  
-the default however, as it is much richer, and (generally) more interesting cartographically. The Canon universe is  
-relatively quite sparse.
+> As the primary author of the project is a fan of the Legends as much as the Canon,  
+both are included. Legends is the default however, as it is much richer, and  
+(generally) more interesting cartographically. The Canon universe isrelatively quite  
+sparse.
 
 ### Order of operations. 
 * Initial file standards to be implemented.
@@ -31,7 +32,7 @@ Radius = 8854km
 Other units and .xml children may be added at a later date. There are many. This project intends to be a rich resource containing more-than-enough and more-than-posssibly-useful information for research, RP and realism, and astrophysics purposes.
 
 
-*There are some inconsistencies, especially in the standards used (Coruscants size) as they are derived from  
+*There are some inconsistencies, especially in the standards used (Coruscant's size) as they are derived from  
 RPG material regarding Bespin and Yavin.*
 
 ### Invaluable sources include:

@@ -2,7 +2,7 @@
     z-index: 1;
     position: fixed;
     border-radius: 5px;
-    width: 97.5%;
+    width: 100%;
     height: 60px;
 	background-color: #668284;
 	margin-top: -20px;
@@ -39,9 +39,11 @@ h4 {
 
 .left {
     float: left;
+    position: fixed;
     border-radius: 5px;
+    height: 375px;
     width: 10%;
-	height: 400px;
+	display: inline-block;
 	background-color: #B9D7D9;
 	margin-top: 50px;
 }
@@ -50,7 +52,7 @@ h4 {
     float: right;
     border-radius: 5px;
     width: 88%;
-	height: 400px;
+	display: inline-block;
 	background-color: #F4EBC3;
 	margin-top: 50px;
 	margin-bottom: 10px;
