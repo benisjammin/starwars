@@ -1,5 +1,4 @@
 #header {
-	z-index: 1;
 	position: center,fixed;
 	width: 100%;
 	border-radius: 0.8em;
@@ -41,6 +40,10 @@ h4 {
 .left {
 	float:left;
 	padding: .5em;
+	width: 10%;		
+	display: inline-block;		
+	background-color: #B9D7D9;		
+	margin-top:1em;
 }
 
 .right {
