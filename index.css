@@ -1,6 +1,7 @@
 #header {
     z-index: 1;
-    position: fixed;
+    position: center,fixed;
+    width: 95%;
     border-radius: 5px;
     height: 60px;
 	background-color: #668284;
