@@ -41,17 +41,6 @@ h4 {
 .left {
 	float:left;
 	padding: .5em;
-	
-
-	float: left;
-	position: fixed;
-	border-radius: 1em;
-	height: 10em;
-	width: 10%;
-	display: inline-block;
-	background-color: #B9D7D9;
-	margin-top:1em;
-	z-index: 1;
 }
 
 .right {
