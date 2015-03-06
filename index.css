@@ -3,7 +3,7 @@
     position: center,fixed;
     width: 95%;
     border-radius: 5px;
-    height: 10em;
+    height: 4em;
     background-color: #668284;
     margin-top: -20px;
     display: block;
@@ -46,7 +46,7 @@ h4 {
     width: 10%;
 	display: inline-block;
 	background-color: #B9D7D9;
-	margin-top:12em;
+	margin-top:2em;
 }
 
 .right {
@@ -55,7 +55,7 @@ h4 {
     width: 88%;
 	display: inline-block;
 	background-color: #F4EBC3;
-	margin-top: 12em;
+	margin-top: 2em;
 	margin-bottom: 7em;
 }
 
