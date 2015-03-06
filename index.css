@@ -41,8 +41,8 @@ h4 {
 .left {
 	float: left;
 	position: fixed;
-	border-radius: 5px;
-	height: 375px;
+	border-radius: 1em;
+	height: 75em;
 	width: 10%;
 	display: inline-block;
 	background-color: #B9D7D9;
