@@ -52,7 +52,7 @@ h4 {
 
 .right {
 	float: right;
-	border-radius: 0em;
+	border-radius: 1em;
 	width: 88%;
 	display: inline-block;
 	background-color: #F4EBC3;
