@@ -55,6 +55,11 @@ h4 {
 	margin-top: 1em;
 }
 
+#titleLeft p {
+	font-family: MonoType, Lucida, Times;
+	font-size: 1em;
+}
+
 #footer {
 	float: bottom;
     	border-radius: 5px;
