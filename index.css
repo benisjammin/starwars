@@ -9,7 +9,7 @@
 }
 
 #name {
-	border-left: 1em;
+	float: left;
 	padding-top: 4px;
 	margin-left: 10px;
 	color: #ffffff;
@@ -38,12 +38,12 @@ h4 {
 }
 
 .left {
-	float:left;
+	margin-left:.6em;
 	padding: .5em;
 	width: 18%;		
 	display: inline-block;		
 	background-color: #B9D7D9;		
-	margin-top:1em;
+	margin-top: 1em;
 }
 
 .right {
