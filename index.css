@@ -1,9 +1,13 @@
+.body {
+	background-color: #9A0707;
+}
+
 #header {
 	position: center,fixed;
 	width: 100%;
 	border-radius: 0.8em;
 	height: 4em;
-	background-color: #668284;
+	background-color: #000000;
 	margin-top: -20px;
 	display: block;
 }
@@ -42,7 +46,7 @@ h4 {
 	padding: .5em;
 	width: 15%;		
 	display: inline-block;		
-	background-color: #B9D7D9;		
+	background-color: #000056;		
 	margin-top: 1em;
 }
 
@@ -51,7 +55,7 @@ h4 {
 	padding: 1em;
 	width: 80%;
 	display: inline-block;
-	background-color: #F4EBC3;
+	background-color: #8B0606;
 	margin-top: 1em;
 }
 
@@ -65,7 +69,7 @@ h4 {
 	float: bottom;
     	border-radius: 5px;
     	height: 2em;
-	background-color: #668284;
+	background-color: #000000;
 	clear: both;
 	color: #ffffff;
 	margin-top: 1em;
