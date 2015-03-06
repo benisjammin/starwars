@@ -9,7 +9,7 @@
 }
 
 #name {
-	float:left;
+	border-left: 1em;
 	padding-top: 4px;
 	margin-left: 10px;
 	color: #ffffff;
