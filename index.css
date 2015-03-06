@@ -4,8 +4,9 @@
     width: 95%;
     border-radius: 5px;
     height: 60px;
-	background-color: #668284;
-	margin-top: -20px;
+    background-color: #668284;
+    margin-top: -20px;
+    display: block;
 }
 
 #name {
