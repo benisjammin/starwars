@@ -7,7 +7,7 @@
 	width: 100%;
 	border-radius: 0.8em;
 	height: 4em;
-	background-color: #000000;
+	background-color: #222222;
 	margin-top: -20px;
 	display: block;
 }
@@ -46,30 +46,38 @@ h4 {
 	padding: .5em;
 	width: 15%;		
 	display: inline-block;		
-	background-color: #000056;		
+	background-color: #002046;		
 	margin-top: 1em;
+	font-size: auto;
+}
+
+.left a {
+    color: AAAAAA;
 }
 
 .right {
 	float: right;
 	padding: 1em;
-	width: 80%;
+	width: 75%;
 	display: inline-block;
-	background-color: #8B0606;
+	background-color: #eeefef;
 	margin-top: 1em;
+    border-radius: .2em;
+    border: 1em solid;
+    border-color: #8B0606;
 }
 
 #titleLeft {
 	font-family: MonoType, Lucida, Times;
 	font-size: 1em;
-	color: #123456;
+	color: #AAAAAA;
 }
 
 #footer {
 	float: bottom;
     	border-radius: 5px;
     	height: 2em;
-	background-color: #000000;
+	background-color: #333333;
 	clear: both;
 	color: #ffffff;
 	margin-top: 1em;
