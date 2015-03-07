@@ -1,72 +1,91 @@
+.body {
+	background-color: #9A0707;
+}
+
 #header {
-    z-index: 1;
-    position: fixed;
-    border-radius: 5px;
-    height: 60px;
-	background-color: #668284;
+	position: center,fixed;
+	width: 100%;
+	border-radius: 0.8em;
+	height: 4em;
+	background-color: #222222;
 	margin-top: -20px;
+	display: block;
 }
 
 #name {
-    float:left;
-    padding-top: 4px;
-    margin-left: 10px;
-    color: #ffffff;
-    font-family: Verdana, sans-serif;
-    font-size: 20px;
+	float: left;
+	padding-top: 4px;
+	margin-left: 10px;
+	color: #ffffff;
+	font-family: Verdana, sans-serif;
+	font-size: 20px;
 }
 
 #email {
-    float:right;
-    margin-right: 10px;
-    padding-top: 11px;
-    color: #ffffff;
-    font-family: Verdana, sans-serif;
+	float:right;
+	margin-right: 10px;
+	padding-top: 11px;
+	color: #ffffff;
+	font-family: Verdana, sans-serif;
 }
 
 a {
-    Color: #000000;
-    text-decoration: none;
+	Color: #000000;
+	text-decoration: none;
 }
 
 h4 {
-    margin-left: 5px;
-    margin-bottom: 15px;
-    font-family: Verdana, sans-serif;
-    margin-top: 15px
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: Verdana, sans-serif;
+	margin-top: 15px
 }
 
 .left {
-    float: left;
-    position: fixed;
-    border-radius: 5px;
-    height: 375px;
-    width: 10%;
-	display: inline-block;
-	background-color: #B9D7D9;
-	margin-top: 50px;
+	margin-left:-4em;
+	padding: .5em;
+	width: 15%;		
+	display: inline-block;		
+	background-color: #002046;		
+	margin-top: 1em;
+	font-size: auto;
+}
+
+.left a {
+    color: AAAAAA;
 }
 
 .right {
-    float: right;
-    border-radius: 5px;
-    width: 88%;
+	float: right;
+	padding: 1em;
+	width: 75%;
 	display: inline-block;
-	background-color: #F4EBC3;
-	margin-top: 50px;
-	margin-bottom: 10px;
+	background-color: #eeefef;
+	margin-top: 1em;
+    border-radius: .2em;
+    border: 1em solid;
+    border-color: #8B0606;
+}
+
+#titleLeft {
+	font-family: MonoType, Lucida, Times;
+	font-size: 1em;
+	color: #AAAAAA;
 }
 
 #footer {
-    border-radius: 5px;
-    	height: 50px;
-	background-color: #668284;
+	float: bottom;
+    	border-radius: 5px;
+    	height: 2em;
+	background-color: #333333;
 	clear: both;
-	color: #ffffff
+	color: #ffffff;
+	margin-top: 1em;
+	margin-bottom: 0em;
 }
 
 #footer p {
-    text-align: center;
-    position: relative;
-    padding-top: 10px;
+	text-align: center;
+	position: relative;
+	padding-top: 10px;
 }
