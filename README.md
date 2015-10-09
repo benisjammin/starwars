@@ -2,7 +2,7 @@
 Star Wars Map Project
 ============
 
-### This project is on hold pendng a change of headquarters.
+### This project is on hold pending a change of headquarters.
 
 *Primary contributors:* **B_n, B_l_y,** J_ss.
 
