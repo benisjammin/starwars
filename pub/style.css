@@ -148,3 +148,14 @@ h4 {
 	margin: 0;
 	padding: 0;
 }
+
+#footer{
+	position:relative;
+	margin-top:40px;
+	padding-top:40px;
+	padding-bottom:40px;
+	font-size: .7445em;
+	line-height:1.5;
+	color:#767676;
+	border-top:1px solid #eee
+}
