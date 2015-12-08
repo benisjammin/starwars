@@ -139,16 +139,17 @@ h4 {
 
 .left {
 	float: left;
-	margin: 0;
+	margin-left: 1em;
 	padding: 0;
 }
 
 .right {
 	float: right;
-	margin: 0;
+	margin-right: 1em;
 	padding: 0;
 }
 
+/*from Github, testing better footer*/
 #footer{
 	position:relative;
 	margin-top:40px;
@@ -158,4 +159,34 @@ h4 {
 	line-height:1.5;
 	color:#767676;
 	border-top:1px solid #eee
+}
+#footer:before{
+	display:table;content:""
+}
+#footer:after{
+		display:table;
+		clear:both;content:""
+}
+.site-footer .octicon-mark-github{
+	position:absolute;
+	top:38px;
+	left:50%;
+	height:24px;
+	width:24px;
+	margin-left:-12px;
+	font-size:24px;
+	color:#ccc
+}
+	.site-footer .octicon-mark-github:hover{
+		color:#bbb
+		}
+.site-footer-links{
+	margin:0;list-style:none
+}
+.site-footer-links li{
+	display:inline-block;
+	line-height:16px
+	}
+.site-footer-links li+li{
+	margin-left:10px
 }
